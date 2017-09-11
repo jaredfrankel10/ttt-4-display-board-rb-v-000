@@ -1,5 +1,5 @@
 
-an_array = ["" , " ", "dog"]
+an_array = ["puppy" , " ", "dog"]
 
 def display_board(board)
   puts " #{board[0]} | #{board[1]} |   "
@@ -10,5 +10,3 @@ def display_board(board)
 end
 
 display_board(an_array)
-
-
